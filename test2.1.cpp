@@ -18,4 +18,4 @@ int main ()
     cout << &pa << " " << &pa+1 << " " << &pa+2 << endl;
     cout << &pb << " " << &pb+1 << " " << &pb+2 << endl;
 }
-// Nhận xét: int chiếm 4 bytes, còn char chiếm 1 byte.
+// Nhận xét: int chiếm 4 bits, còn char chiếm 1 bit.
